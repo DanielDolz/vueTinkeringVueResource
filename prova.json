@@ -1,0 +1,24 @@
+{
+  "user" : [
+     { "id" : 1,
+     "name": "John One"
+     },
+     { "id" : 2,
+     "name": "John Two"
+     },
+     { "id" : 3,
+     "name": "John Three"
+     }
+   ],
+  "roles" : [
+     { "id" : 1,
+     "name": "Rol One"
+     },
+     { "id" : 2,
+     "name": "Rol Two"
+     },
+     { "id" : 3,
+     "name": "Rol Three"
+     }
+   ]
+}
